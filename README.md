@@ -4,7 +4,7 @@ It's a ALBUM LIST APP in react, it fetches albums from fakeserver.
 
 ## Authors
 
-- [Sagar Rana](https://github.com/sagar-demo?tab=repositories)
+- [Rooshi Dhinaiya](https://github.com/Rooshidhinaiya)
 
 ## Tools & Technologies Used
 
@@ -13,16 +13,14 @@ It's a ALBUM LIST APP in react, it fetches albums from fakeserver.
 - Html
 - Css \
 
-***\*Live project link**\*****
-- Url Link (https://spectacular-baklava-6fa327.netlify.app/)
-- vs code
+
 
 ## Installation And Usage
 
 To run this project run
 
 ```bash
-  https://github.com/sagar-demo/Album-Collection
+  https://github.com/Rooshidhinaiya/Album-collection
 ```
 
 Go to directory
@@ -76,4 +74,4 @@ Now you can access on localhost:3000
 
 ## Feedback
 
-If you have any feedback, please reach out to me at sgamilcom77@gmail.com
+If you have any feedback, please reach out to me at rooshidhinaiya@gmail.com
